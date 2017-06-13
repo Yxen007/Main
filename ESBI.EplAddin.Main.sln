@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESBI.EplAddin.Main", "ESBI.EplAddin.Main\ESBI.EplAddin.Main.csproj", "{7C3915AB-79CF-41D3-B1F0-720E771F4507}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		X64 Debug|Any CPU = X64 Debug|Any CPU
+		X64 Debug|Mixed Platforms = X64 Debug|Mixed Platforms
+		X64 Debug|x64 = X64 Debug|x64
+		X64 Debug|x86 = X64 Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|x64.ActiveCfg = Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|x64.Build.0 = Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|x86.ActiveCfg = Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Debug|x86.Build.0 = Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|Any CPU.ActiveCfg = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|Mixed Platforms.Build.0 = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|x64.ActiveCfg = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|x64.Build.0 = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|x86.ActiveCfg = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.Release|x86.Build.0 = Release|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|Any CPU.ActiveCfg = X64 Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|Mixed Platforms.ActiveCfg = X64 Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|Mixed Platforms.Build.0 = X64 Debug|x86
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|x64.ActiveCfg = X64 Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|x64.Build.0 = X64 Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|x86.ActiveCfg = X64 Debug|x64
+		{7C3915AB-79CF-41D3-B1F0-720E771F4507}.X64 Debug|x86.Build.0 = X64 Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_BuildVersioningStyle = None.None.None.None
+		BuildVersion_AssemblyInfoFilename = ESBI.EplAddin.Main\Properties\AssemblyInfo.cs
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+		BuildVersion_DetectChanges = False
+		BuildVersion_UseGlobalSettings = True
+		BuildVersion_StartDate = 2000/1/1
+		BuildVersion_IncrementBeforeBuild = True
+	EndGlobalSection
+EndGlobal
